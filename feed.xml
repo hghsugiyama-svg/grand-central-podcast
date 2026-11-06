@@ -7,7 +7,7 @@
     <link>https://github.com/hghsugiyama-svg/grand-central-podcast</link>
     <language>ja</language>
     <copyright>Sheraton Executive Lounge</copyright>
-    <itunes:author>GRAND CENTRAL ✕ 語り部（窪田等）</itunes:author>
+    <itunes:author>GRAND CENTRAL</itunes:author>
     <itunes:summary>The Art of Absolute Mastery. Private Executive Podcast for Commute.</itunes:summary>
     <description>The Art of Absolute Mastery. Private Executive Podcast for Commute.</description>
     <itunes:owner>
@@ -20,33 +20,19 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 
-    <!-- エピソード 1: 窪田等（語り部） -->
+    <!-- 👑 エピソード 01（通し30分完全版）：帝王にふさわしい洗練された題名 -->
     <item>
-      <title>【Episode 01】マキャベリ君主論──真の強者は誰にも操られない「静かな圧倒的存在感」</title>
-      <itunes:author>語り部（窪田等風）</itunes:author>
-      <itunes:summary>男は、静かに歩みを進める。冷徹なリアリスト・マキャベリが喝破した君主の条件とは。</itunes:summary>
-      <description><![CDATA[男は、静かに歩みを進める。早朝の冷気。靴音だけが、アスファルトに響いていた。五百年以上も前、一人の男が遺した言葉がある──。]]></description>
-      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/test_kubota_v2_fast.mp3" 
-                 length="307152" 
+      <title>Episode 01 ── 静寂の王権：誰にも操られない「圧倒的存在感」と四本の支配柱</title>
+      <itunes:author>GRAND CENTRAL</itunes:author>
+      <itunes:summary>あなたは部屋に入るのではない。部屋に降り立つのだ。マキャベリが説く冷徹なリアリズムと、内なる玉座を守り抜く四本の柱（思考・沈黙・戦略・主権）。通勤30分完全収録。</itunes:summary>
+      <description><![CDATA[あなたは部屋に入るのではない。部屋に降り立つのだ。この二つの間には天と地ほどの差がある。
+十六世紀フィレンツェの思想家ニッコロ・マキャベリの『君主論』とストア派哲学を統合し、周囲に操られず圧倒的な存在感を築くための「四本の柱（頭の中・口・行動・お金）」を全編ノーカットで語り尽くす30分完全講義。]]></description>
+      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/ep01_the_sovereign_presence.mp3" 
+                 length="9576144" 
                  type="audio/mpeg"/>
-      <guid isPermaLink="false">gc-podcast-20261107-kubota</guid>
-      <pubDate>Fri, 06 Nov 2026 23:23:00 GMT</pubDate>
-      <itunes:duration>00:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-
-    <!-- エピソード 2: 有村架純（保健室長） -->
-    <item>
-      <title>【Special Session】マキャベリ君主論──自分をすり減らさずに大切な場所を守る知恵</title>
-      <itunes:author>保健室長（有村架純風）</itunes:author>
-      <itunes:summary>おはようございます。今週も本当によく頑張りましたね。肩の力を抜いて聴いてみてくださいね。</itunes:summary>
-      <description><![CDATA[おはようございます。今週も本当によく頑張りましたね。朝晩はぐっと冷え込んできたので、体を冷やさないようにしてくださいね。]]></description>
-      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/test_kasumi_v2_fast.mp3" 
-                 length="215424" 
-                 type="audio/mpeg"/>
-      <guid isPermaLink="false">gc-podcast-20261107-kasumi</guid>
-      <pubDate>Fri, 06 Nov 2026 23:23:00 GMT</pubDate>
-      <itunes:duration>00:30</itunes:duration>
+      <guid isPermaLink="false">gc-imperial-leadership-ep01-full</guid>
+      <pubDate>Fri, 06 Nov 2026 23:38:44 GMT</pubDate>
+      <itunes:duration>28:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
