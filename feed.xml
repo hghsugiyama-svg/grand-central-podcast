@@ -3,24 +3,26 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Grand Central Private Podcast</title>
+    <title>帝王学講義 ── GRAND CENTRAL</title>
     <link>https://github.com/hghsugiyama-svg/grand-central-podcast</link>
     <language>ja</language>
-    <copyright>Grand Central</copyright>
-    <itunes:author>Sheraton Executive Lounge</itunes:author>
-    <itunes:summary>豪さま専用通勤プライベートPodcast（Voice Casting Studio）</itunes:summary>
-    <description>豪さま専用通勤プライベートPodcast（Voice Casting Studio）</description>
+    <copyright>Sheraton Executive Lounge</copyright>
+    <itunes:author>豪さま ✕ 語り部（窪田等）</itunes:author>
+    <itunes:summary>豪さま専用通勤プライベートPodcast。冷徹なリアリズム、歴史的英断、真の強者の人間学を朝の知性へ。</itunes:summary>
+    <description>豪さま専用通勤プライベートPodcast。冷徹なリアリズム、歴史的英断、真の強者の人間学を朝の知性へ。</description>
     <itunes:owner>
       <itunes:name>豪さま</itunes:name>
       <itunes:email>grandcentral@local</itunes:email>
     </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/hghsugiyama-svg/grand-central-podcast/main/cover.png"/>
-    <itunes:category text="Education"/>
+    <itunes:category text="Education">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 
     <!-- エピソード 1: 窪田等（語り部） -->
     <item>
-      <title>【語り部・窪田等】マキャベリ君主論──真の強者は誰にも操られない「静かな圧倒的存在感」</title>
+      <title>【第1講】マキャベリ君主論──真の強者は誰にも操られない「静かな圧倒的存在感」</title>
       <itunes:author>語り部（窪田等風）</itunes:author>
       <itunes:summary>男は、静かに歩みを進める。冷徹なリアリスト・マキャベリが喝破した君主の条件とは。</itunes:summary>
       <description><![CDATA[男は、静かに歩みを進める。早朝の冷気。靴音だけが、アスファルトに響いていた。五百年以上も前、一人の男が遺した言葉がある──。]]></description>
@@ -28,14 +30,14 @@
                  length="307152" 
                  type="audio/mpeg"/>
       <guid isPermaLink="false">gc-podcast-20261107-kubota</guid>
-      <pubDate>Fri, 06 Nov 2026 23:15:46 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 23:20:43 GMT</pubDate>
       <itunes:duration>00:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
     <!-- エピソード 2: 有村架純（保健室長） -->
     <item>
-      <title>【保健室長・有村架純】マキャベリ君主論──自分をすり減らさずに大切な場所を守る知恵</title>
+      <title>【特別講義】マキャベリ君主論──自分をすり減らさずに大切な場所を守る知恵</title>
       <itunes:author>保健室長（有村架純風）</itunes:author>
       <itunes:summary>おはようございます。今週も本当によく頑張りましたね。肩の力を抜いて聴いてみてくださいね。</itunes:summary>
       <description><![CDATA[おはようございます。今週も本当によく頑張りましたね。朝晩はぐっと冷え込んできたので、体を冷やさないようにしてくださいね。]]></description>
@@ -43,7 +45,7 @@
                  length="215424" 
                  type="audio/mpeg"/>
       <guid isPermaLink="false">gc-podcast-20261107-kasumi</guid>
-      <pubDate>Fri, 06 Nov 2026 23:15:46 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 23:20:43 GMT</pubDate>
       <itunes:duration>00:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
