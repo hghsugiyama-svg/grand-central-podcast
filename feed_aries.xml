@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ARIES ORACLE ── 🏛️ GRAND CENTRAL</title>
+    <link>https://github.com/hghsugiyama-svg/grand-central-podcast</link>
+    <language>ja</language>
+    <copyright>Sheraton Executive Lounge</copyright>
+    <itunes:author>🏛️ GRAND CENTRAL</itunes:author>
+    <itunes:summary>Celestial Biorhythm &amp; Weekly Sanctuary for Go Sama. Soothing Horoscope for Aries.</itunes:summary>
+    <description>豪さま（牡羊座）専用のプライベート天体オラクル。しいたけ占い・石井ゆかりさんの言葉から「おひつじ座」だけを抜き出し、ほっこり温かい語りでお届けする心の処方箋。</description>
+    <itunes:owner>
+      <itunes:name>豪さま</itunes:name>
+      <itunes:email>grandcentral@local</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/hghsugiyama-svg/grand-central-podcast/main/cover_aries.png"/>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- ♈ 第1回：今週の牡羊座（目を休ませて、湯気をぼーっと眺める処方箋） -->
+    <item>
+      <title>今週の牡羊座 ── 目を休ませて、湯気をぼーっと眺める処方箋</title>
+      <itunes:author>🏛️ GRAND CENTRAL</itunes:author>
+      <itunes:summary>「やらなければいけないこと」を目で追い続け、疲れを溜めやすい時期。コップの氷や温かい湯気をぼーっと眺め、肩の力を抜く3分間のほっこり音声処方箋。</itunes:summary>
+      <description><![CDATA[今週の牡羊座は、「やらなければいけないこと」をずっと目で追い続けるような状態が続いて、知らず知らずのうちに目に疲れを溜めやすい時期の中にあります。
+いつも先頭に立って責任を引き受けているからこそ、視野が狭くなって緊張が張り詰めやすい。
+今週の何より大切な処方箋は「目を休ませること」。コップの中で氷が溶けるさまや温かい湯気をぼーっと眺め、頭の中に青い空と白い雲を広げましょう。
+相手を変えようとせず、温かいお茶を飲んで、自分の心地よい静けさだけを守る3分間のオラクル。]]></description>
+      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/aries_ep01_weekly_sanctuary.mp3" 
+                 length="715536" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">gc-aries-oracle-ep01</guid>
+      <pubDate>Sat, 07 Nov 2026 05:20:23 GMT</pubDate>
+      <itunes:duration>02:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
