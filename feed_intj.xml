@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>THE INTJ MIND ── GRAND CENTRAL</title>
+    <link>https://github.com/hghsugiyama-svg/grand-central-podcast</link>
+    <language>ja</language>
+    <copyright>Sheraton Executive Lounge</copyright>
+    <itunes:author>GRAND CENTRAL</itunes:author>
+    <itunes:summary>Architecture of Solitary Mastery. Private Executive Podcast for INTJ Thinkers.</itunes:summary>
+    <description>生粋のINTJ・建築家のための思考回路完全防衛と覚醒の全記録。孤独を選ぶ理由、理解されたい本音、そして歳を重ねるごとに生きやすさMAXを解放する戦略的アーキテクチャ。</description>
+    <itunes:owner>
+      <itunes:name>豪さま</itunes:name>
+      <itunes:email>grandcentral@local</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://raw.githubusercontent.com/hghsugiyama-svg/grand-central-podcast/main/cover_intj.png"/>
+    <itunes:category text="Education">
+      <itunes:category text="Philosophy"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+
+    <!-- 🧠 特別合体エピソード 01：孤独と覚醒（30分通しスペシャル） -->
+    <item>
+      <title>Episode 01 ── 建築家の孤独と覚醒：理解されたい深層本音と生きやすさの完全解放（30分通しスペシャル）</title>
+      <itunes:author>GRAND CENTRAL</itunes:author>
+      <itunes:summary>【前半：INTJのトリセツ】誰にも言えない「本当は理解されたい本音」✕【後半：おっすオラINTJ】何歳から生きやすさMAXになるのか。孤独な戦略家が辿り着く自己統合の30分完全講義。</itunes:summary>
+      <description><![CDATA[【前半：INTJのトリセツ ── 孤独を選ぶ天才が誰にも言えない本音】
+「一人で平気そう」「冷たそう」「何を考えているか分からない」。そう見られがちなINTJ建築家。だが本当は、理解されたくないわけじゃない。適当な共感や浅い同情で濁されるくらいなら、孤高の静寂を選んでいるだけなのだ。高いプライドの裏にある傷つきやすさ、感情表現の不器用さ、そして心を許した相手にだけ見せる純粋な信頼の深層心理。
+
+【後半：おっすオラINTJ ── 何歳から生きやすさMAXになるのか】
+10代の理不尽な同調圧力、20代の孤立と模索、30代の能力開花と妥協の葛藤、そして40代以降に訪れる「生きやすさMAX」の圧倒的自由。主機能Ni（内向的直観）と補助機能Te（外向的思考）が第三機能Fi・劣等機能Seとどのように統合され、最強の自律境地へ至るのか。通勤片道で完全聴破する30分スペシャル講義。]]></description>
+      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/intj_ep01_solitary_mastery.mp3" 
+                 length="9939600" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">gc-the-intj-mind-ep01-full</guid>
+      <pubDate>Sat, 07 Nov 2026 02:30:12 GMT</pubDate>
+      <itunes:duration>29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
