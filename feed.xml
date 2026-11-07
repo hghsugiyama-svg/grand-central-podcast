@@ -20,37 +20,64 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 
-    <!-- 👑 エピソード 02：社会的知性（SQ）と地位の駆け引き（新パラメータ：低音・深層テンポ33分完全収録） -->
+    <!-- 👑 エピソード 04：真の強者は誰にも操られない。圧倒的存在感の4本の柱（窪田等） -->
+    <item>
+      <title>Episode 04 ── 【マキャベリ】真の強者は誰にも操られない。「静かな圧倒的存在感」を手に入れる4本の柱</title>
+      <itunes:author>GRAND CENTRAL</itunes:author>
+      <itunes:summary>孤高のリーダーのためのマキャベリズム。感情に流されず、誰の支配も受けない圧倒的静寂と4本の支配柱を解剖する24分完全講義。</itunes:summary>
+      <description><![CDATA[真の強者は誰にも操られない。「静かな圧倒的存在感」を手に入れる4本の柱。マキャベリが喝破した冷徹な現実主義と、孤高の帝王学を窪田等の深層重低音バリトンで語り尽くす。]]></description>
+      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/machiavelli_ep02_4pillars.mp3" 
+                 length="10211760" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">gc-imperial-ep04-4pillars</guid>
+      <pubDate>Sat, 07 Nov 2026 23:45:39 GMT</pubDate>
+      <itunes:duration>24:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- 👑 エピソード 03：あなたを軽く扱う人には代償がある（窪田等） -->
+    <item>
+      <title>Episode 03 ── 【マキャベリ】あなたを軽く扱う人には「代償」がある。静かに主導権を取り戻す冷徹な現実主義</title>
+      <itunes:author>GRAND CENTRAL</itunes:author>
+      <itunes:summary>舐められない人間になるための冷徹な現実主義。相手の無礼や軽視に対して感情で怒らず、静かに代償を支払わせる主導権掌握術。</itunes:summary>
+      <description><![CDATA[あなたを軽く扱う人には「代償」がある。静かに主導権を取り戻す冷徹な現実主義。怒鳴るのではなく、静かに境界線を引き主導権を取り戻すマキャベリ的処世術。]]></description>
+      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/machiavelli_ep01_daisho.mp3" 
+                 length="4729248" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">gc-imperial-ep03-daisho</guid>
+      <pubDate>Sat, 07 Nov 2026 23:45:39 GMT</pubDate>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- 👑 エピソード 02：社会的知性（SQ）と地位の駆け引き（33分） -->
     <item>
       <title>Episode 02 ── 獲物の思想を捨てよ：地位の駆け引きを制する「社会的知性」と心理防衛術</title>
       <itunes:author>GRAND CENTRAL</itunes:author>
-      <itunes:summary>「自分が正しければ世界は報いてくれる」という獲物の思想を捨てよ。論理（IQ）を20%の基礎とし、残り80%の現実力学（社会的知性SQ）を掌握する。地位の駆け引き・沈黙・ダークトライアード防衛の33分完全講義。</itunes:summary>
-      <description><![CDATA[頭がいいのに人間関係での悩みが尽きない。知識があり説明もうまく、仕事だってそつなくこなす。それなのになぜか人が離れていく、意見が通らない。
-技術者として優秀だった人間が現場監督で潰れる理由とは何か。第一印象の2大軸（温かさと能力）、地位の駆け引き、交流分析における親と子の罠、そして共感を利用した心理操作からの防衛術を全編ノーカットで語り尽くす33分完全講義。]]></description>
+      <itunes:summary>「自分が正しければ世界は報いてくれる」という獲物の思想を捨てよ。論理（IQ）を20%の基礎とし、残り80%の現実力学（社会的知性SQ）を掌握する。</itunes:summary>
+      <description><![CDATA[頭がいいのに人間関係での悩みが尽きない。地位の駆け引き、交流分析における親と子の罠、共感を利用した心理操作からの防衛術。]]></description>
       <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/ep02_social_intelligence.mp3" 
                  length="11083968" 
                  type="audio/mpeg"/>
       <guid isPermaLink="false">gc-imperial-leadership-ep02-full</guid>
-      <pubDate>Sat, 07 Nov 2026 00:37:01 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 23:45:39 GMT</pubDate>
       <itunes:duration>33:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-    <!-- 👑 エピソード 01：マキャベリ君主論（28分30秒完全収録） -->
+    <!-- 👑 エピソード 01：静寂の王権（28分30秒） -->
     <item>
       <title>Episode 01 ── 静寂の王権：誰にも操られない「圧倒的存在感」と四本の支配柱</title>
       <itunes:author>GRAND CENTRAL</itunes:author>
-      <itunes:summary>あなたは部屋に入るのではない。部屋に降り立つのだ。マキャベリが説く冷徹なリアリズムと、内なる玉座を守り抜く四本の柱（思考・沈黙・戦略・主権）。通勤30分完全収録。</itunes:summary>
-      <description><![CDATA[あなたは部屋に入るのではない。部屋に降り立つのだ。この二つの間には天と地ほどの差がある。
-十六世紀フィレンツェの思想家ニッコロ・マキャベリの『君主論』とストア派哲学を統合し、周囲に操られず圧倒的な存在感を築くための「四本の柱（頭の中・口・行動・お金）」を全編ノーカットで語り尽くす30分完全講義。]]></description>
+      <itunes:summary>誰にも操られない圧倒的な静寂の王権。マキャベリ君主論の冷徹な知性。</itunes:summary>
+      <description><![CDATA[マキャベリ君主論に基づく帝王学講義。]]></description>
       <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/ep01_the_sovereign_presence.mp3" 
-                 length="9576144" 
+                 length="9575856" 
                  type="audio/mpeg"/>
-      <guid isPermaLink="false">gc-imperial-leadership-ep01-full</guid>
-      <pubDate>Fri, 06 Nov 2026 23:45:00 GMT</pubDate>
+      <guid isPermaLink="false">gc-imperial-leadership-ep01</guid>
+      <pubDate>Sat, 07 Nov 2026 23:45:39 GMT</pubDate>
       <itunes:duration>28:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-
   </channel>
 </rss>
