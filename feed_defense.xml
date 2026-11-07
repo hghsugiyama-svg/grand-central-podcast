@@ -7,39 +7,32 @@
     <link>https://github.com/hghsugiyama-svg/grand-central-podcast</link>
     <language>ja</language>
     <copyright>Sheraton Executive Lounge</copyright>
-    <itunes:author>🏛️ GRAND CENTRAL</itunes:author>
-    <itunes:summary>The Architecture of Structure and Shield. Private Executive Monograph on Cognitive Sociology and Self-Defense.</itunes:summary>
-    <description>相手を変えることにエネルギーは1mlも使わない。社会や人間の冷徹な構造を上空から解剖し、不可侵の聖域と防壁を固めるプライベート・モノグラフ。語り部：窪田正孝（構造把握）✕ 白石聖（絶対防壁）。</description>
+    <itunes:author>GRAND CENTRAL</itunes:author>
+    <itunes:summary>Cognitive Boundary and Mental Sanctuary. Defense Strategies for Leaders.</itunes:summary>
+    <description>Cognitive Boundary and Mental Sanctuary. Defense Strategies for Leaders.</description>
     <itunes:owner>
       <itunes:name>豪さま</itunes:name>
       <itunes:email>grandcentral@local</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://raw.githubusercontent.com/hghsugiyama-svg/grand-central-podcast/main/cover_defense.png"/>
-    <itunes:category text="Education">
-      <itunes:category text="Social Sciences"/>
+    <itunes:image href="https://raw.githubusercontent.com/hghsugiyama-svg/grand-central-podcast/main/cover_defense_book.png"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 
-    <!-- 🏛️ 創刊パイロット・エピソード：社会的知性と不可侵の防壁（33分完全収録） -->
+    <!-- 🛡️ エピソード 02：誰にでも好かれようとすると損をするのはなぜ？（有村架純） -->
     <item>
-      <title>Monograph 01 ── 構造把握と絶対防壁：獲物の思想を捨て、不可侵の聖域を築く技術</title>
-      <itunes:author>🏛️ GRAND CENTRAL</itunes:author>
-      <itunes:summary>【前半：構造把握（窪田正孝）】なぜ論理だけでは人間社会が動かないのか。地位の駆け引きとSQの力学 ✕ 【後半：絶対防壁（白石聖）】他人の期待を1mlも通さない不可侵シールドの構築。</itunes:summary>
-      <description><![CDATA[相手を変えることにエネルギーは1mlも使わない。
-頭がいいのに人間関係での悩みが尽きない理由とは何か。技術者として優秀だった人間が現場監督で潰れる理由とは何か。第一印象の2大軸（温かさと能力）、地位の駆け引き、交流分析における親と子の罠、そして共感を利用した心理操作からの防衛術。
-
-【語り部構成】
-前半：窪田 正孝（深層低音・冷徹な社会解剖）
-後半：白石 聖（透明感ある知性・魂の不可侵結界）
-※チャンネル名や挨拶などの前置きを一切排し、1秒目から本質論の地の文に直入します。]]></description>
-      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/ep02_social_intelligence.mp3" 
-                 length="11083968" 
+      <title>Episode 02 ── 誰にでも好かれようとすると、損をするのはなぜ？｜人に気をつかいすぎて、疲れてしまう人へ（菜根譚・ブッダ）</title>
+      <itunes:author>有村 架純（Nanami）</itunes:author>
+      <itunes:summary>人に気を遣いすぎて疲れてしまうあなたへ。イソップのロバ、菜根譚、ブッダの教えから『嫌われてもいい相手がいる』ことを受け入れ、大切な時間を取り戻す処方箋。</itunes:summary>
+      <description><![CDATA[人に気をつかいすぎて、疲れてしまう人へ。菜根譚とブッダの智慧から、自分を安売りせず、本当に大切な人のためにエネルギーを残す生き方を優しく語る。]]></description>
+      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/saikontan_ep01_buddha.mp3" 
+                 length="4251456" 
                  type="audio/mpeg"/>
-      <guid isPermaLink="false">gc-cognitive-defense-mono01</guid>
-      <pubDate>Sat, 07 Nov 2026 05:02:27 GMT</pubDate>
-      <itunes:duration>33:00</itunes:duration>
+      <guid isPermaLink="false">gc-defense-ep02-saikontan</guid>
+      <pubDate>Sat, 07 Nov 2026 23:45:39 GMT</pubDate>
+      <itunes:duration>10:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-
   </channel>
 </rss>
