@@ -20,7 +20,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
 
-    <!-- 👑 エピソード 01（通し30分完全版）：帝王にふさわしい洗練された題名 -->
+    <!-- 👑 エピソード 02：社会的知性（SQ）と地位の駆け引き（新パラメータ：低音・深層テンポ33分完全収録） -->
+    <item>
+      <title>Episode 02 ── 獲物の思想を捨てよ：地位の駆け引きを制する「社会的知性」と心理防衛術</title>
+      <itunes:author>GRAND CENTRAL</itunes:author>
+      <itunes:summary>「自分が正しければ世界は報いてくれる」という獲物の思想を捨てよ。論理（IQ）を20%の基礎とし、残り80%の現実力学（社会的知性SQ）を掌握する。地位の駆け引き・沈黙・ダークトライアード防衛の33分完全講義。</itunes:summary>
+      <description><![CDATA[頭がいいのに人間関係での悩みが尽きない。知識があり説明もうまく、仕事だってそつなくこなす。それなのになぜか人が離れていく、意見が通らない。
+技術者として優秀だった人間が現場監督で潰れる理由とは何か。第一印象の2大軸（温かさと能力）、地位の駆け引き、交流分析における親と子の罠、そして共感を利用した心理操作からの防衛術を全編ノーカットで語り尽くす33分完全講義。]]></description>
+      <enclosure url="https://github.com/hghsugiyama-svg/grand-central-podcast/releases/download/v2026.11.07/ep02_social_intelligence.mp3" 
+                 length="11083968" 
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">gc-imperial-leadership-ep02-full</guid>
+      <pubDate>Sat, 07 Nov 2026 00:37:01 GMT</pubDate>
+      <itunes:duration>33:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <!-- 👑 エピソード 01：マキャベリ君主論（28分30秒完全収録） -->
     <item>
       <title>Episode 01 ── 静寂の王権：誰にも操られない「圧倒的存在感」と四本の支配柱</title>
       <itunes:author>GRAND CENTRAL</itunes:author>
@@ -31,7 +47,7 @@
                  length="9576144" 
                  type="audio/mpeg"/>
       <guid isPermaLink="false">gc-imperial-leadership-ep01-full</guid>
-      <pubDate>Fri, 06 Nov 2026 23:38:44 GMT</pubDate>
+      <pubDate>Fri, 06 Nov 2026 23:45:00 GMT</pubDate>
       <itunes:duration>28:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
